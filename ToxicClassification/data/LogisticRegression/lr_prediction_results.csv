@@ -1,0 +1,1286 @@
+,Predicted Dataset,,,,,,,,TestDataset,,,,,,,,,,,,,,
+id,toxic,severe_toxic,obscene,threat,insult,identity_hate,Predicted_Result,,toxic,severe_toxic,obscene,threat,insult,identity_hate,Test_Result,Result,,Comp_toxic,Comp_severe_toxic,Comp_obscene,Comp_threat,Comp_insult,Comp_identity_hate
+000103f0d9cfb60f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+000113f07ec002fd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00037261f536c51d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00040093b2687caa,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0006f16e4e9f292e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+000c0dfd995809fa,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+000f35deef84dc4a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+000ffab30195c5e1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0011cc71398479c4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00128363e367d703,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0013a8b1a5f26bcb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00169857adbc989b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+001810bf8c45bf5f,0,0,0,0,0,0,0,,1,0,1,0,1,1,101011,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Not Matched
+00190820581d90ce,1,0,0,0,0,0,100000,,1,0,1,0,1,0,101010,Not Matched,,Match,Match,Not Matched,Match,Not Matched,Match
+001c419c445b5a59,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+001c557175094f10,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+001cadfd324f8087,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+001d874a4d3e8813,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+001dc38a83d420cf,1,0,1,0,0,0,101000,,1,0,1,0,0,0,101000,Match,,Match,Match,Match,Match,Match,Match
+002264ea4d5f2887,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+0023daf96917e0d0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0028d62e8a5629aa,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+002a6beca33307b3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0030614cfd96d9d1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00316bcc0d1bc6e0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+003217c3eb469ba9,0,0,0,0,0,0,0,,1,0,0,1,0,0,100100,Not Matched,,Not Matched,Match,Match,Not Matched,Match,Match
+0036621e4c7e10b5,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+0038d1dc2ad29469,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0038f191ffc93d75,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+003a19c04c079bf7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+003bd094feef5263,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+003caacc6ce6c9e9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+003fa0c68deca750,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0040017ef6277334,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0044cf18cc2655b3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0048e4ed8a0af433,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+004a23742282fee4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+004a789c03eda830,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+004b103182fb1eab,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+004b975fabbbffa9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+004b97c80705a548,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+004de318396bbf8b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+004f5608984d99f1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+004fb9f655230909,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+004fd4fb5c47c29f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0052a7e684beeb1a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+005306a4c109dab3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00548f16a392d8ed,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0057e30091cf3e81,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00584d887401f47b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+005b214511a69b4b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+005cec874506e9d9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0060062dd4db5195,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0060ef190ee10720,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+006120d209a4a46c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0066dcf7d9ecd360,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+006a263a08b593c5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+006a4cdda4960588,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+006a4e493b506d1e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+006b94add72ed61c,0,0,0,0,0,0,0,,1,0,1,1,1,1,101111,Not Matched,,Not Matched,Match,Not Matched,Not Matched,Not Matched,Not Matched
+006ca45465868e64,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+006d11791d76b9f3,0,0,0,0,0,0,0,,0,0,0,0,1,0,10,Not Matched,,Match,Match,Match,Match,Not Matched,Match
+006fda507acd9769,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+007094f2f9efe035,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00733f0a4a58cf42,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0074b307c2d9a100,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+008198c5a9d85a8e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+008344a80c43b8c9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0083790fbfe5014d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0086998b34865f93,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+00882ab8cfa42274,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+008d3702b1ad0465,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+008f22e7b58e559b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+008faa76dd3eb890,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+008fdd0ca51cdadc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00905910dcbcc8aa,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0091aec11b57d12e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00961bcaadd6a278,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+009a52daa8dbb767,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+009a6b3e571ee155,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+009df88828f523c4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00a216c00b90ce88,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00a66540b2a66bb4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00a8fa03349203fb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00a981826dc7c952,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00a98913b0b8ba34,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00ac1b5af6c85483,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00ad34e7cb085421,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00b211fa0c65d328,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00b25b1226d6c6b2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00b47f6c58c6fe6a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00b77cb600c897b4,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+00b8e7ea2fc02b12,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00b9c08a7c708e0a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00bc09a581d1cb61,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00bef5aca1e725ca,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00c1c8d3384b48ff,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00c381d0018beaf3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00c5213d8f396507,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00cc7f0622962160,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00ced92ee28c7ee8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00d1e7e4668d787f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00d300b2a1d61c1c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00d429d337eaa672,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+00d785d768a2dba7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00d81d8eaceba607,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00e3d92fb826eceb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00e5404d42483c48,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00e769033b3844a7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00e9a20c61f96b13,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00eb6533c271bc85,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00ed5db0f9814e1f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00efe5b4ea0efdd9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00f07769124c44b3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00f0efc07027e927,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00f16e6ae4e7d32a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00f2b8bc9915c115,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00f35913b9cdff7d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00f3aa414f74de2d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00f5698b82d74156,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00f59a92085d27ab,1,0,1,0,0,0,101000,,1,0,0,0,1,0,100010,Not Matched,,Match,Match,Not Matched,Match,Not Matched,Match
+00f84ff64cc93b6e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00f9c3fa802dbd57,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00fad81c9e87dfe0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+00fc6e858f03197d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0104dcedd9e32948,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0109e81b7ab2b70e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+010f3443a2209b7a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0113fabbf6828fee,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01158c10be84878a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0116dc0c1e6d20cd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+011813b36dadcbe1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01193e9e851db130,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0119d1da26efff4f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0125f95ac41f6cea,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+01299c922a2310c1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+012cac13e9d4dbd5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+012edfca8b3fa98c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0132912330421bc5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01389dc7e054bfe5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+013c1a43411c5f9a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+013d17a8b342f501,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0141bcdf68c13b91,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+014613567783bc82,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+014ab157b6991c99,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+014b44616d8cb457,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+014d00c8f2a76df4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0150b1ffd804dc7e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0150d88b4062f684,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0153f485f714ae70,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01548aa392752378,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+015510b215d6c38f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0155c0f1599a2a41,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0156e0ccb44f8564,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01588a3bc3e2755d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+015d1b0bb4cc744d,1,0,0,0,0,0,100000,,1,0,1,0,1,1,101011,Not Matched,,Match,Match,Not Matched,Match,Not Matched,Not Matched
+0160a3b5afa44351,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0160e253adac202e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+016340e730e14925,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+016418de3574e094,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0164a6c212293bb3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01653d1b778e1d0c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+016c3ec38be1d0a6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+016c8a7818637e45,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+016c95d317969274,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01749628cf9e9c18,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0179239478f72a9a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+017b9b51d4be9c18,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+017cc4c7aa653f76,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+017ea3f1259c91bb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+017f6e44082a86af,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+018112615c9cfc4e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01885a6bbea2ce41,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+018aab4d87d613d3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+018c9b77dbc6d357,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+018e6f1e1b18723a,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+01971a826d60568a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+019ab7fbe83530b6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+019bf50235ccbe37,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+019ffe9293bf9c8b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01a01dec8b7e1553,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01a1126be42769bf,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01a232ba3a10697a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01a9a03fc4001131,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01ad9cd4eb4a53c3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01ae22088f9485c1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01ae8496770c49db,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01b7c6ded99c3d19,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01bb377792b089d4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01bed0edcd09824a,0,0,0,0,0,0,0,,1,0,1,0,0,0,101000,Not Matched,,Not Matched,Match,Not Matched,Match,Match,Match
+01bf0d4342ec4a2e,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+01c0374a4f1180eb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01c2be4ae0b5023c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01c5f2ccb8b1f97c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01cb9ca6df78b63d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01ccf4d20d31dfbe,0,0,0,0,0,0,0,,0,0,0,0,1,0,10,Not Matched,,Match,Match,Match,Match,Not Matched,Match
+01d14606bf9ea4ba,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01d23731751fb112,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01d57127c5308743,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+01d5e4ada5bb35f1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01d8285e76f59d25,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01d9c6d55af5a2f4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01dd6a27ef8036c1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01deac7397f62369,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01df24989725d4dd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01dfd54de655b50e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01e3882f09660e23,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+01e58e990787f8d9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01ead109dc3410ba,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01eb7faff74223e5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01ef0f942d024cf5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01ef80d8cae12af1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01f0e7889fca1088,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01f1fa3a42ee248e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01f3575d21b13a45,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01f62dcb1b3a405a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01fa0d55e1951b84,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01fb885fd0a0c0fe,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01fc9263162f240b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+01fd0de4ca85352f,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+02060d554fedfbc1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02066a519739a3a7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0206e51093d5a939,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0206eebf62f378d7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02074344b3aeacd4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0209866c42ffa823,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+020ae7c316320e74,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+020b6dee4858be18,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+020bed950193546c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+020befd59ff2e981,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+020c16fd5ab352ef,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+020dbbdb2f69bd97,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0211c2463faca41a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+021295eb6cc33203,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02152ce921425374,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+021b91aedb549908,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+021da446e1edff81,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+021dd03523405d27,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+021f3afbb7aaa938,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02230885017a50c5,0,0,0,0,0,0,0,,1,0,1,1,1,0,101110,Not Matched,,Not Matched,Match,Not Matched,Not Matched,Not Matched,Match
+022509df20736807,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+0229107e1bd26a14,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+023139ad38255929,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0233045e691927af,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+023e413fea56a62f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+024145ecee609f08,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+02443ae134f82946,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0246bad2d4571175,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0248b8ec0483d854,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0249ada54eec56de,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+024ac45cad0fe649,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+025abee8428a80d8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+025afc53b522918d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+025d968155a0bb75,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+025f74ee4d7d741e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02614de9e03ec073,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0261b0afdc8e64a3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02623e1cfaf5497c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02657a6a9e916c93,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0265bcade39daa25,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+0266668f5c2efe01,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0267269529bd74af,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0268b8c4bb135601,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0268e46cd25339f0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+026a530134212936,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+0270bbf8002b4476,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02714b4b5c91acbe,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02730f132825301d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+027d5c361f3a61e0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+027dcbaa61909f5a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+027f8d819419d5fd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+028279c80e582fbe,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0283222a3bd34af1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02852b6277d1179b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+028a5b5c89b30b29,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+028b33a01b981487,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+028b4485f9893caf,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+028ba27107b79a59,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0291735c70214907,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+0296430035f695b9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+029a4ebfed3aea79,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+029a5c4f02ff3b7a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+029be1f68e4ae6a3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+029c7d3333113506,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+029f6feaef7f6c49,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02a1ac2c706d3306,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+02a276b30cb6ec23,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02a361f2a4b796dd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02a36392b78be10a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02a8cf6b702bffca,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02a98102fabcc119,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02a9c23cbfcc6dbc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02a9d09e88d2eef4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02ab3c4cd194663c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02afd99087d6cdc4,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+02b37d6238d8caef,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02b8c8ba3b2a1b35,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02b90e56ec25a4c1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02b94ce316048bc1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02b9ef57925866c8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02bbc13086568032,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02c07b15733c976e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02c102fbc303e364,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02c4c02b0976735c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02c5be40edbd40cc,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+02c644a650c7d8e5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02c741d1412fec05,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02cb6499e237e649,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02d2677fa2d8fde3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02d47c163a70ce9f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02d51858d2d65891,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02dcd28342e37401,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02ddefb0c5fca9b8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02deb794b278ca09,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02dfae456a56a23b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02e07f0130a68f2a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02e0fa1d258c6e04,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02e3329fd19a929e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02e37cf58b76b305,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02e94629a492c587,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02e97001f357445d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02e9f5bb1834f906,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02eb9e6955f4db2d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02ed4849102d5fc6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02f3533f6f2ce9a6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02f48bd1c03c9e0b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02f516a2a8f57506,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02f71292c2703cbc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02f77830b4d71c0f,0,0,0,0,0,0,0,,1,0,0,1,0,0,100100,Not Matched,,Not Matched,Match,Match,Not Matched,Match,Match
+02f82449080cadbd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02fa024e479afdde,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02fa1fc0a59350f8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02fadb4ac6f029b0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02fcd5c28005823d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02fe38c6d10c97a5,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+02fe4e8ff269a71c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02feb6937e005cbc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+02ff4b3bdb728600,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+030453faad009691,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+030782f9c3472047,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0307836cb642d954,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0308d704d8d493ff,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+030a6ad91679f0b3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+030c892746d7b9b1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+030cb420b7ae3d43,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+030cffa3a980de7e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+030dcef3ca2df44b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+030e2fa4ebf8cc96,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0312ad44da32b691,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0315e968ae19fed8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0317f38b5c1ff126,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+031801125ea27bbf,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+031a838b55294b45,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+031b9491ea28f331,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+031be7991d883341,0,0,0,0,0,0,0,,1,0,0,0,1,1,100011,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Not Matched
+031c870ecdfd6bf6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03260b773cc4ac08,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+032a0456f11996d3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+032a39f99f6b076a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+032a3a16e21e06c2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+032f9e599b1237c9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03334c4bb5573721,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+033432cc1c78bec0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03352f107129ed2e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+033879bbe9363fc5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+033a19999a2f256f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+033d78bf5ab10000,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+034334446bafa2e1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+034380b8a8d44868,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0346a65e3a0a3819,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0349ac61d7b497e3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+034a28e649c2a623,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+034bb4bc1b734bf7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0351193e487aa72f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03513414863c8c92,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03527506fc5edf1e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0353e91b974e8348,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+035b0411abf2d5e2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+035f7387511a7402,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0362e12d6034faea,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03639566dc5f2f18,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03683bf10116e9cc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+036adadd3826b75a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+036e52c8ef8da3e8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03707093b18455e4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03772988d6d91d2b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03795caeaa02b687,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+037cf9d6a84df11a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+037f3d36a361798d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+037f8fbe6e9cbe03,0,0,0,0,0,0,0,,1,0,1,0,1,1,101011,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Not Matched
+0382f1ce0855c5e1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+038327604e7dece8,1,0,1,0,0,0,101000,,1,0,1,0,0,0,101000,Match,,Match,Match,Match,Match,Match,Match
+0384515afa407869,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+0385a6802aa15cdf,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0389faad1e7b9d3f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+038d517531fb35cd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+038e58a988428855,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+038fa68c579f7b8a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0391fa5d2ea8a52a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+039255a63777897e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0392de34030477e6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03934313211c4077,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+039a5be679381a7e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+039b2a3155b61e28,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03a0e6449ff06683,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03a23485f2cf7be4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03a382ebf403ae29,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03a41173212b41a4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03a442121ca197bf,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03a50e06d4b4d1c0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03a5eadb9db2b71d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03a5f92e90946346,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03a7e2d430589285,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03a91b47951ef376,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03add3eed68efd4c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03ae891b8abe2356,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03aebfdf95b10e4c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03b085f3f2153a94,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03b0df8e2f79ad61,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03b92519f22a5cb1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03b97c9337d7d5fd,0,0,0,0,0,0,0,,1,0,1,0,0,0,101000,Not Matched,,Not Matched,Match,Not Matched,Match,Match,Match
+03bc65d3506935f2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03bcd7ec9bf94732,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03bee869150e37d8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03bf511f6bde7674,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03c08eea7d47611c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03c0a575664c26b3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03c5aa975d317d40,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03c5dc065a5ea3aa,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03c6460999bf6403,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03c980957ec204c9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03c9b915b629e2b7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03d825e633ec178b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03d858bf3a01074e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03dd90664e855020,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+03de275a27556d4b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03defcf604c604cf,1,0,0,0,0,0,100000,,1,0,0,0,0,0,100000,Match,,Match,Match,Match,Match,Match,Match
+03e2e6f3db855105,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03e365a3a19de25e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03e4fff35f376fb1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03e726834f754a93,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03e72776f68f97fe,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03e757afffa84597,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03f0ab75057c72d7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03f3487fdc578875,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03f7fe9b81b95977,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03fbb44ff8d17606,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03fc54f1c2d6c459,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+03ff4b4aa414f66e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0401c500f2b2bdae,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0403cec9a442bb2f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04063512ff567984,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04099afb475daead,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0409cc780a7e4077,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+040a95741d7c8d91,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+040de10692eb1979,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04110045732f0040,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0412d2b301e10223,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+041b257da0b7d657,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+041dce2fa6038f82,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+041f8f78802ea967,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+042228d9b71a3891,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04237ea01685d4b6,0,0,0,0,0,0,0,,1,0,1,0,1,1,101011,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Not Matched
+04273b9c5738c89c,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+042a7f7464750af1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+042b82793675fe06,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+042d435734db39cb,0,0,0,0,0,0,0,,1,0,1,0,0,0,101000,Not Matched,,Not Matched,Match,Not Matched,Match,Match,Match
+042e184200690387,0,0,0,0,0,0,0,,0,0,1,0,0,0,1000,Not Matched,,Match,Match,Not Matched,Match,Match,Match
+042fe2d289c55264,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04316638593290c8,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+0434f62039e06317,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0435946ea37228bf,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0436905aac62d815,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0437561ecfde2bfb,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+043ae7fcc0b34f77,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+043f3a6e338b9fb5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0440d6f36d4a8961,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0445e22943b04b49,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+044702b61a1e5b2e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0448cbd6e79d6d9e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04499285e82a8fff,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+044fdde853acbe7d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0457250c737ada15,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04606a9489089b41,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0461feb67bf9b330,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+046556dd4d636a93,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+046ab05396d25314,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+046cf8d9a906968a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+046da8cc7de51ccc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+046fb19a8291fa2b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0470a205e8ecf59b,0,0,0,0,0,0,0,,1,1,1,0,1,0,111010,Not Matched,,Not Matched,Not Matched,Not Matched,Match,Not Matched,Match
+04740afdec5c0429,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+047b50906f8fa095,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+047c213edcb89ebd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+047e77e3ab612b40,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+047eb76c290f076a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+048207877a0791d4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0485b375f1083ea0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0487903955e2e742,0,0,0,0,0,0,0,,1,0,1,0,0,0,101000,Not Matched,,Not Matched,Match,Not Matched,Match,Match,Match
+048d93085008cfa4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+048e113125bdf498,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+048e2bdc78a2dff1,0,0,0,0,0,0,0,,1,1,1,0,1,0,111010,Not Matched,,Not Matched,Not Matched,Not Matched,Match,Not Matched,Match
+04908cdedaaaf63b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0491011303c6e54b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0492cfd8278238d4,0,0,0,0,0,0,0,,1,1,1,0,1,0,111010,Not Matched,,Not Matched,Not Matched,Not Matched,Match,Not Matched,Match
+049587614b333637,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+049817c666ecbdfc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+049aa7969ccd93ff,0,0,0,0,0,0,0,,0,0,1,0,0,0,1000,Not Matched,,Match,Match,Not Matched,Match,Match,Match
+049b3e8c149469e2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+049d71646bab76ce,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04a2e9156cfd87a6,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+04a361cfd274e6fe,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04a403dd237c2906,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04a6bedb30d0b19d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04aac9d4f53a8282,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04ac4f118a1563c4,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+04ac56a43d2d209a,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+04ad3fa0962b40f2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04ae4b01d87a9b9b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04aeb1bd39e3f350,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04af185d298b513f,1,0,0,0,0,0,100000,,1,0,1,0,1,0,101010,Not Matched,,Match,Match,Not Matched,Match,Not Matched,Match
+04b0db5243798c05,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04b5fa02f7d79f07,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04b5fb910eb06b0e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04b7a4db64efa754,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04baeea8d61cac54,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04bf87be1159dff0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04c557b3933d68cf,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04c664f7baab86ec,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04c7365668577444,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04c84f008c54d01f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04c927b68eef8804,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04ca3cfdcaa58a16,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04cf14506adaaf42,0,0,0,0,0,0,0,,1,0,1,0,1,1,101011,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Not Matched
+04d0033805ca73c3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04d4787ced1e5813,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04d89684fa7b177f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04da36e968d2c0ef,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04dc44e598497b9a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04dcb8ae1179ba31,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04e4dc75ff4c1301,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04e5fec7a78a56c0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04e6352975d11945,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04e8df7277348d43,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04e94f7a039accd6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04ea98b5399729d2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04edde88d246724a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04f3066d3bf6bf37,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04f8cad9735b8c3c,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+04fa4efa5efc351f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04fbe3dcd4523624,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+04fd1bfdd50f09e0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+050130aee675c515,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0501726e2528ce16,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0504b8ec93b3521d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0508396f5a861678,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05095403585c3b7e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+050b910da391155d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+050dc14880ed9673,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0510b05e13a2d42f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0512b588a4b80e45,1,0,1,0,1,1,101011,,1,0,1,0,1,1,101011,Match,,Match,Match,Match,Match,Match,Match
+0512db238fec2eb7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0513c24cee00aa5c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05183ea36bdaabf8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0518f3ac8dd72d62,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05203603bcd44b8c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05210b598d5d46b0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0524e84383b1da90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0525305ab014194a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05287ad5cb9e632f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+052fb1def4fe4790,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+052fd5daae4f7b54,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+052ff0b0b4e0adcf,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0532eeee474b2c6d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+053378b5c8d76936,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0533c68b6e61e5ee,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05342a65eab40629,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0536d2f25f58e41d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05372fd007b996a7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+053825bca5fbd47e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+053b24b25f48a5e7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+053d05eec276cb75,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+053e1010a3533c3d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+053eef41f1eee325,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05400f98d9a7ef8d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05434c37cd87a525,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+054498d7d5fc2f85,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0545ffcf70c9c99c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+054608ae9fa4b9cd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05497ed19512b588,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+054b1b0019a6bd9c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+054b37be76678daa,0,0,0,0,0,0,0,,0,0,0,0,1,0,10,Not Matched,,Match,Match,Match,Match,Not Matched,Match
+054c3e503771ece0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05501c529f0439c3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05566a740b2b9ad4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0559f0de5c90f55a,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+055eb49939be33e6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+055f62f330c9b483,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+056791b78692a149,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0569a07e22b86f53,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+056e5ad67d9f60c7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+056ebf729a0c5c23,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0571ee866108b61e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05729c95eb3dc41c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0572e28b45d2a735,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0575c9683063ae24,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+057a35a0759dc81e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+057a84ef71d2689f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+057b2a97fa00c5b0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+057c0b2524818457,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0580f49d5ff8fb3e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05811a317ea28696,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0585b04abf26c4b1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05869bd8c9fb1722,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0587b881d6369250,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05880a5aac0de540,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05891871c2a02620,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0589d6b50920e734,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+0589fba441e63a02,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+058a91864562267f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+058abb99e3f9bae0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+058e0cd8f021ce32,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+058ecf33db6d1f88,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05926a656e933da4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+059435976e73946a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+059607c1a0bbd567,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0596c04bcc74821c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0596c6e5cf87c9d2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0598eafabfff1fad,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+059e27c77639d7d6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05a31d2df1ea0e36,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05a3b78d75005a5a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05a40298dce0b983,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05a6e59c979e05f3,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+05a83cfaacb73b01,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05a928e4d2101d4e,1,0,0,0,0,0,100000,,1,1,1,0,1,0,111010,Not Matched,,Match,Not Matched,Not Matched,Match,Not Matched,Match
+05aebb34275b8c4d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05af49538959fa9e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05af610a0a220de7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05aff915f17379c4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05b03cf98d498f39,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05b07d91eb069a4d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05b42b08035d745e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05b6df1d5188d5f1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05b849129c6307aa,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05b93eb05e5700fb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05ba8dba0fe74063,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05bb2bf6d6fe1bd4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05bb5cfecdf4b5a1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05bb95ca51204370,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05beafaff2055045,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05c5392db862c291,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05c69b5996aa5557,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05c73c6c6434cf7c,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+05c964eb1d12da67,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05ca1ec519e6efb0,1,0,0,0,1,0,100010,,1,0,1,0,1,0,101010,Not Matched,,Match,Match,Not Matched,Match,Match,Match
+05ca6a6ec2418af6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05d43dda7784c665,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05d585bdfaf477be,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05d7f58055c46e54,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05dc2045c8500f31,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05dc64ac8fbc5486,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05e2006bb43727ad,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05e5fb8d860e6d55,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05eb4cd54132e9dc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05eb5b5d8e6cc0b0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05f0ec47ee913b37,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05f4aae6742097a7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05f5e56632d0f2ea,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05f6251d52df976f,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+05f67b1d664fd035,1,0,1,0,1,0,101010,,1,0,1,0,1,0,101010,Match,,Match,Match,Match,Match,Match,Match
+05f69d22471ee406,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+05f74ba39a921c3f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05f7cac8692a27b7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05fa0c1b8938b28b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05fd5238cb7e8832,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05fde0955c9b6b45,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+05fe5959d032aef6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06005235a65aa74e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06006cc0eb8fa181,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0602cddaca373a51,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0604ca3e342a5164,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0604eaba05229055,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+060a04eb8ce87340,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+060a3285f863d6bf,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+060af733f43405d3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+060c61444a131539,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+060d90bb83941f2a,0,0,0,0,0,0,0,,1,1,1,0,1,0,111010,Not Matched,,Not Matched,Not Matched,Not Matched,Match,Not Matched,Match
+060e7a44850b22b7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+060eb65607606c82,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06121ad58a48dd42,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0614a17f7b07769c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06183a2e02fbeb7c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06185aa873fd717c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+061ef06fdae32466,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+061f1ead34a254c1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0623b1a8deb81d78,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06243489c009c199,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06251e3c87f093c8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0629bbae15ded453,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+062ab28dfc884f9a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+062e3d6f3173ff07,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0630a273716586ba,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0631d2191b009371,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06329edd43401485,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0633ed617776a5c1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0634c7d8f50d2220,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+063581ee63c49b08,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06364f8474947d83,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0638de0ec13cd777,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0639972a11e762b7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+063e95c2948a9935,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0641a016df82d9e0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0641f4f131492679,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0644732513128de8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0646482015963e2c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0647d2d400443aad,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06489792377f551d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06498f04972f3de9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+064cb4bb379da126,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+065239fdba699113,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06573ec80185634b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+065cb7d8f7ab6d21,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+065e8715c7eaf6d4,1,0,0,0,0,0,100000,,1,0,0,0,0,0,100000,Match,,Match,Match,Match,Match,Match,Match
+065ed7f6fcb56b44,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+06611b9bcca6dfd3,1,0,0,0,0,0,100000,,1,0,1,1,1,0,101110,Not Matched,,Match,Match,Not Matched,Not Matched,Not Matched,Match
+06643d62c1fe76ad,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06678c919e830854,0,0,0,0,0,0,0,,1,1,1,0,1,0,111010,Not Matched,,Not Matched,Not Matched,Not Matched,Match,Not Matched,Match
+066979c1dd3c5d0b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+066be00072ee5456,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+066e4591a00d69fb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+066f65aa2bf9338c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06706ebc7b0a33c0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+067385e05d53448b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0675ca47f054c2c0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+067638a445ccd93b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06778c8d29ca9234,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0678fe61d0ebd1ca,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+067bafafbf153e9f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+067c5e814e88a56b,1,1,1,1,1,1,111111,,1,1,1,0,1,0,111010,Not Matched,,Match,Match,Match,Not Matched,Match,Not Matched
+067d284b1c919fb1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+067d63fcdaa6e580,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+067d8ab342b30616,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+067da093ddf19112,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+067ecfe8efa28404,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+067f7b7f5e4ba20f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+067f7e4692624916,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0680608685b8ceba,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+068069fe40537b32,1,0,1,0,1,0,101010,,1,0,1,0,1,0,101010,Match,,Match,Match,Match,Match,Match,Match
+0681025b5ad21307,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06815cfc7ffeaf8c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06828458022eb893,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0683778ec9c10745,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06851860439bc73c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0685ca0bfe2b5fc9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0688fb9174122530,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+068b565efd17dd8c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0692163e00f7294b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0695bf7c3660a17d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+069d2bd492641000,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06a2372846507613,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06a57888285c9097,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06a7b583fccb7cd2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06ad8092fbdae8a2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06aef84f95a4f0c0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06af47bcc39a5363,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06b2b6ae16e8fbf7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06b4b022b5cc69b5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06b91d078eae7eab,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06b984700e3289f8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06bf9f58011ca46a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06c20bf6b7f25149,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06c4ba1c70839c27,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+06c79b477886efb3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06c9a0833ede4305,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06c9e814aa177f67,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06cc5aa8dcee72e8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06d450d0fc73f7f8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06d60cd45a8fb40a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06d644e9bd4ce4f4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06d66b115a738039,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06d72d798ad54e47,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06d96171c6f48236,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+06dc83b1dd771d7a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06deb5df37817a34,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+06e24fab8fe463cb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06e2bb0770387ff3,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+06e2c55b70ee860a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06e6abc88198162b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06e7d3ebe933a118,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06eeba0ba8b77f47,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06ef09bb1b1d505e,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+06ef6851f68940da,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06f2fabf0c5dd05d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06f30b792924b85e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06f3cf60e09b2259,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06f8497db6383eef,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06fad6e49990ab50,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06fb277b83999735,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+06fe60abb4c75df1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07000b9aae958076,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0700b07700927977,0,0,0,0,0,0,0,,1,0,1,0,1,1,101011,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Not Matched
+07020d90313a68bd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07081b6e928e2b71,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07103155fc2836a4,0,0,0,0,0,0,0,,1,0,1,0,0,0,101000,Not Matched,,Not Matched,Match,Not Matched,Match,Match,Match
+07113b8604b314e1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+071143236048dec0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0712c084a59af49a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0714f4ae98ccfe8e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0716a647678ef3fe,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0717bcaacf1395e3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+071be8261c8d6d96,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+071c41ec60ddb6b1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+071dc9bda006e62c,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+07269fdde2e6fb5a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07279ca59038059a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+072825b5cedee27f,1,0,1,0,0,0,101000,,1,0,0,0,1,0,100010,Not Matched,,Match,Match,Not Matched,Match,Not Matched,Match
+072c0470e510231c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+072cc2325a60684b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0732200c5cb48914,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0735b90ad8fbd735,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07379fc8fcfcb8d3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0738074293f9bc06,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+073b16dcd47073b2,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+073dbe2c3220f583,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+073debb08319ff7d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+073e25c3d887a071,1,1,1,0,1,0,111010,,1,0,1,0,1,0,101010,Not Matched,,Match,Not Matched,Match,Match,Match,Match
+0745d180f581d7d0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0749d09de769a638,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+074e8f1919b6e2fc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0750213f69d91d8a,1,0,0,0,1,0,100010,,1,0,1,0,0,0,101000,Not Matched,,Match,Match,Not Matched,Match,Not Matched,Match
+07503a77f38a238c,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+075179455542eca2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0751cf8bc1abeaba,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0752176547da3d03,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+0753a3466b515384,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+075470fcd26696f3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0754cb0c9804dc4e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07590502f252ba19,0,0,0,0,0,0,0,,1,1,1,0,1,0,111010,Not Matched,,Not Matched,Not Matched,Not Matched,Match,Not Matched,Match
+075a4b83f3eba42f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+075aa080f410a458,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+076107246aaad137,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07627c6eca101d4b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+076521d2187716f9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+076555e0a4a7f91c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+077576d0a275139a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0779c8ac7d4e1c96,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+077b1cb88c59f123,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+077c6b070f7ed595,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+077d7f826a4ff377,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+077dffbae053f082,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0788465b12ef7d4c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0788c252b0f011ee,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0789dd1a4e343d11,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0789ee63f04dff9b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0789ff49e3dd621a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+078b454567d77a5b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+078b4f9478906dc8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+078fd3cf1f2867b5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0794e85a262c627a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+079569ee3ed1ff15,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07980db40cc37429,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+079a38cb7695b3ed,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+079eaf68ae081d68,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07a4a63c0ba370eb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07a67b419c543b8e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07aab74b32a7627b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07ab06ef770756e4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07ab2b35a79ced55,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07ae995e5c2b62f3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07af4347c1ff53b3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07b019a3a1a8e020,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07b0666d23a1484a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07b0d289cd69e45a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07b36c594fbd6b54,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+07b574f43657004a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07b63e266429f2b7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07b6728e16132c15,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07b67a9350059f1e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07b8397904f068f5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07bb20810d92fd25,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07bec8ac11914442,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07bfc39c830d7122,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07bfc569168b50fc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07c2b4ba77e64718,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07c37d50746b980c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07c394b1e8fb135c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07c52c2ad6b0d46c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07cb514295550ed3,0,0,0,0,0,0,0,,1,0,1,0,0,0,101000,Not Matched,,Not Matched,Match,Not Matched,Match,Match,Match
+07d2ed1f32b003c6,1,0,0,0,0,0,100000,,0,0,1,0,1,0,1010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+07d6325b885b7809,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07d65edeb233a90f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07da0ee381637ea4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07decf47b4d4ea82,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07e0346aeda107bd,0,0,0,0,0,0,0,,1,0,0,1,0,0,100100,Not Matched,,Not Matched,Match,Match,Not Matched,Match,Match
+07e167686eb78ca6,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+07e36fc910bd3eec,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07e7e67e0ae7802c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07ea176024b22cf7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07eaf9f589eef6a9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07f1c8cbb315e468,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07f1e0a1c10fcf28,0,0,0,0,0,0,0,,1,1,1,0,1,1,111011,Not Matched,,Not Matched,Not Matched,Not Matched,Match,Not Matched,Not Matched
+07f3f29a1213b5c6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07f5d8640b1ea1da,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07f6eb95cc33a593,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07fa808e885ab8d0,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+07fa81d7036e38c9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07fe550d314d769e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07ff0744ebbf7c82,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+07ff4877c26dff6e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0802acf828e3d404,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0803dfe4c5e84b27,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08056e2009580910,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0809d66739273760,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+080a2b409c3a9d59,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+080db6b8374b4746,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+080dde8a1b0287aa,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+080dfb9d0cbd37d1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+080ed7ec244614c9,1,0,0,0,0,0,100000,,1,0,1,0,0,0,101000,Not Matched,,Match,Match,Not Matched,Match,Match,Match
+080f938a32768670,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+081031f279da8e23,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08199d0e6d744296,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+082088b31d9d0b86,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+082a82aee106b652,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+082aaaa8b163cc0f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0831a9934bee1482,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+0834b6db802809c1,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+083b5bad0ae8d7f4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0840723f1de866ac,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0842207a8e55171b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0844a0de195ebd6c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0845b7367fc286a8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+084706d8b2ac6c53,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0847213cb7f7bb60,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08482f19a0b39c58,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+084a1917e566cb65,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+084ccf4d6063f572,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+084d4c9e7598af03,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+084dab7703cf04b6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+085a08089146838e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+085adccd8c19bcf9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+085b466e91a59878,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+085c4d65c345bdb1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+085da78c657775fd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+085e6a328ab26ccc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+085f1ab73550ed66,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+086394d1f5a1debc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0863d81d4d18cd1d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08656465bd64aba7,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+0866edcd75afc09a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08672f080f30a9f6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0867c7a85e064fc3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0869f5af55db6da9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+086e2a550ebbb4eb,1,1,1,0,0,0,111000,,0,0,0,0,0,0,0,Not Matched,,Not Matched,Not Matched,Not Matched,Match,Match,Match
+08705d58a3dd0b9b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0870b0a472c4c908,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0871f6cc11e1d556,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0872772b0919629e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08739d16c74aff66,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+087442de114cc282,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0878fbd30d4aa6fe,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0879ef00e2339269,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+087ca78aba0dfaeb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0881020deb1e9030,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0883effb43d31224,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0884b57e732a9907,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08874796e23b0bde,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+088e11e0657096af,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+088fe62df7cf47a2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+089028a109fd4113,0,0,0,0,0,0,0,,1,0,1,0,0,0,101000,Not Matched,,Not Matched,Match,Not Matched,Match,Match,Match
+08904319c6f5eaa3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08911441781489b5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0892767d0fd3b68e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0893f5810626e0b6,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+0895b019feb5af52,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0897bd576287b8d9,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+089b68589c99b69d,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+089d2f421d41224e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+089e6f0cdf57c9f2,1,0,1,0,1,0,101010,,1,0,1,0,1,0,101010,Match,,Match,Match,Match,Match,Match,Match
+08a19fb8485fe16b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08a70fd81e135893,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08a88045d0c13b83,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08a99ea7b871c4c8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08af5e3dc4c2917c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08b76b365c686aaf,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08b7803d8e6e03cf,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08b7ca30a84a522b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08b950d24e5bc02e,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+08bc259d5dd52ade,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08bd5d4700e4ae45,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08bd9a138bb65705,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08bf26b0c35bb562,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08c13bbf0358fc7a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08c3ee408a2a354a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08c4ab44d7e0e7e2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08c86df7de2cd014,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08cb6364a31ea3b4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08cbfdee7aafbac9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08d00271ffc7d44f,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+08d191b67b873a4c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08d2aa6b26e2ea22,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08d69d8e7f60aada,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08d75421dc5c9f3a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08dcb9f639df845f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08dda5dc4a8d980e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08de77ea3a9a65d8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08df69ffaccbc2b8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08e4e715353ff73c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08e511bb4b45d5d5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08e57b8d25b56fef,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08efc5af1f2d342a,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+08f33c885a3077e2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08f3cc32e4404699,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08f484a8ca148096,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08f5c4e56ecab0f0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08fa85962ad15d6a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08face192b33c2cb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08fd430afeeeae2f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+08fffaa6e1d26884,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+090273edb99f539e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0902e32a5664236c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09075dc52ef9210f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+090e00bcb23c2cc1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+090e1a88f2b2345e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+090e28caad25c26e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+090f17e3742e57d0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+090f45421f26c8e4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09108c6c6619e632,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+091113d3ca422637,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+091509827a2fb431,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09186d58eabae098,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+091c15f58a77ea0d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09262c70fc616b33,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0928471b2d81dbb9,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+092b45bbd1f1c878,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+092b9b4aaa23a1df,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+092ca7a6528216fb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+092cef87d4befc93,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0931f9a78048250d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0932b19c8635b33f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0932eeac7b246011,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09331df7494cf7b8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+093570292dc77f03,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09388d2885d48e4a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+093f5f667ba7466c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09485d9c7ed0fc3d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+094f4068716b755e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0951580735355f42,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09520eaa0a779a7b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+095286f804413bd4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0954cf3f6eb379b0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0954e3fe215b59d8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0955801282e93faf,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+095667dc4a914eb7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+095940152b2fb93d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+095c1616c2df6afa,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+095ec459d54f0b08,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+095f4e168601a527,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+095f773a20b366cc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09634484043c49ff,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0964719a1f0973cc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09647c170cf5f30d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09652ddcbf99e322,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0966745f185edd68,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0967e16b993e72cf,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0969dd24783998e2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0969f8a2f557c90b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+096d00eabce64a38,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+096e404228db9b98,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+096eefbfd176a472,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+096ef00881a6fcc4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+096fae4e16300c2e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+096fe68068d09cf6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09716c92bc1af0eb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0971c738cec5bd29,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+097462b1f0db020d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0977a3d919b3f86e,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+0977b33c30bf9bf0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+097813c9034b2c03,0,0,0,0,0,0,0,,1,0,1,0,1,0,101010,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Match
+097be4f83ef4ad54,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+097d67ea90165eaf,1,0,0,0,0,0,100000,,0,0,0,0,0,0,0,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+098056f537c0d576,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0981ca099bf46eed,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0981ec65490129b1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09821b3e3fba048d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+098272ff2756358a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0984c26029e44887,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+098560d4e70843c5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0986ac0ce318e7e7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0987a24b870ac1c6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+098a31fb06fd7182,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+098d9e9d000ac39c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0990066f7cf1e903,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+09916e1b17f7dfcd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09922a2a93d8b2df,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0992881b27604654,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0993494f16cbd002,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0993efecd29bb31b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0995861ad0fead62,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+099ac128d5a41fd8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+099b672f19911fb2,1,0,1,0,1,0,101010,,1,0,1,0,1,0,101010,Match,,Match,Match,Match,Match,Match,Match
+099bebcad700df42,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+099d47537085e993,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+099ee9b0e0fc2523,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09a0dc105a4eb2b8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09a1142b4cb5f5ad,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09a18078f340ff62,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09a5d74443ac4b35,0,0,0,0,0,0,0,,1,0,1,0,1,1,101011,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Not Matched
+09a6ed40520b6cdb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09abe51323ec9f9a,0,0,0,0,0,0,0,,1,0,1,0,0,0,101000,Not Matched,,Not Matched,Match,Not Matched,Match,Match,Match
+09b04ac684d4b019,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09b75b02901df502,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09b84ec3d1b6a52a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09b9b1e6679db181,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09ba63a2e51aa14e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09bba7e99ca9111e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09bc5decea1295f9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09bc66ef512dddb3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09c77b8d0515a394,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09cfe762ef614799,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09d799902866c75b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09d93fe4a086a9d6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09db0479bd6b3345,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09dbd38fdac8b4f9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09de60ebc8c30693,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09e29c025e903299,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09e2e5cbf09891fc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09e42c1742c9a50c,0,0,0,0,0,0,0,,1,0,1,0,0,1,101001,Not Matched,,Not Matched,Match,Not Matched,Match,Match,Not Matched
+09e598adced5f991,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09e6671247cde0ff,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09ea18a372c30c89,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09eb80efdc787c5b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09ecb2cc923518f5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09eda7b83cb25813,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09ee273aebc253cf,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+09f12aa955e6b298,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09f276fe07f5fe26,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09f36d2c17a00efc,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09f7a27f6473b297,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09f7dae10a52f9a3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09fbb195472b0014,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09fbc38d9a31ce34,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+09fdf9e0d311a18b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a02858ba0729178,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a02fc46c257b5ca,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a031f577b0c623c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a037c149e036203,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a05a048319087b0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a09261f8b2df050,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a0e5482f0b950e0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a0f2ce9aef509f0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a11b7ca1b63fe94,1,0,0,0,0,0,100000,,0,0,0,0,0,0,0,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+0a198b5fca23f213,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a1dbf3c852dd3d0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a1feafcec42a1e6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a1ff1c729332a51,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a21be6fd3300824,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a233c0eb2816a22,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a26b95eed56c84e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a2707795f51c12b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a2b199ecbcdf511,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a2bd6b53d9f18df,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a2d0935be444c9a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a30742279a3c079,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a31507f0d185fe6,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+0a35021b27e62631,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a35b19145669cac,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a38150a494e4dea,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a385aa19be5dc6d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a38dc701ecbfe96,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a41788b3fcf15aa,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a44e01f7fca77c7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a45f61be683c02a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a46d3bfb21a7989,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a4880b0a7471f4a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a5091870036f86b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a52307100c98e91,0,0,0,0,0,0,0,,1,0,1,0,0,0,101000,Not Matched,,Not Matched,Match,Not Matched,Match,Match,Match
+0a56ff6311c88da9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a584aa109f613f3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a5b08ba003ae861,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a5cc57219f15ab0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a5ccd3c5bbf0b88,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a5d87a02b48d3f3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a6124cc3a94d817,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a64c34fe7838451,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a65e6c5c78e67e9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a6740da70ff046d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a676c55fc4824b4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a71ae32bad10556,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+0a71ec382f0717b9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a73dcd2b3906bcd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a76760a1f68a1a7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a7771b578d833e1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a77fb047e2f7908,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a77fcc9f15b95b0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a7ae9a68d0d924a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a7c8d5b3853e897,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a7df96f7a1935b3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a7e978123916472,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a8182b94dc2a707,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a81da1386dbc75d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a83c3b5ae9fcc5e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a877e410710b98a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a87d097820fc764,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a8ac564da78e36a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a8cef9d2c7552f3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a8f2dd60127b7f2,0,0,0,0,0,0,0,,1,0,0,0,0,0,100000,Not Matched,,Not Matched,Match,Match,Match,Match,Match
+0a8ff163b8e0fc6a,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+0a951a38a3e8ef9d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a95f5634a8faa9e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a9c1cadeffd5973,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a9d21793fc8624e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a9d7a595fb6c4f7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a9d850fafe780cd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a9e8e2adc09070b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0a9eaf8528ea2864,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0aa45a58b121b603,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0aa6f3529219b37e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0aa8c6a4f17246dd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0aaa0115648ea34f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0aaca95b17e5abe9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0aad4e9d50a682d5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0ab4271f5296203d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0aba856d3cf7f222,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0ac15802d98ba0b5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0ac393bcc98fff4a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0ac3e2061f3072de,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0ac7d6e47025f0d0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0acc70c5afa0e8ce,0,0,0,0,0,0,0,,1,0,1,0,1,1,101011,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Not Matched
+0ad218e29ad653e3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0ad29d8f33cfd27a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0ad6726f8f27f06b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0ad7ee189eb2ca64,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0ada2d071dcd16b6,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+0adb17bbf1430e1d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0adcb484ccc29f2c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0add8cc12667893d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0ade050510ded307,0,0,0,0,0,0,0,,1,0,0,0,1,0,100010,Not Matched,,Not Matched,Match,Match,Match,Not Matched,Match
+0ade5de70a862e5a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0adf5702c35330ef,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0ae4fc6a8d06f07f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0ae7be39d8c4e145,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0ae903435d725610,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0aeac460627eef8f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0aeaf86ee8906711,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0aee1eff31760a6a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0af06abc29306c4c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0af1d1c185d6dc49,0,0,0,0,0,0,0,,1,0,1,0,0,0,101000,Not Matched,,Not Matched,Match,Not Matched,Match,Match,Match
+0af2b1979d2ec8a4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0af3b1ed9f91539d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0af52724ffb11d6b,0,0,0,0,0,0,0,,1,1,1,0,1,0,111010,Not Matched,,Not Matched,Not Matched,Not Matched,Match,Not Matched,Match
+0af5f4c3cc022520,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0af81782deb4f61e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0af83cf2d2b79d8e,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0af917a314be5d46,0,0,0,0,0,0,0,,0,0,1,0,0,0,1000,Not Matched,,Match,Match,Not Matched,Match,Match,Match
+0af95887109b785d,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0afaaade9fdaf6d3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0afb32b2805a76bb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0afccdd70256c0ee,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0aff900699d4c148,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b01850f43823f2a,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b028412a72a1a61,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b0385635bdd67bd,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b0621cc0d757746,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b095db9069c3f91,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b0caae1bcefa7ea,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b0de50dc6cb4029,0,0,0,0,0,0,0,,1,0,1,0,1,1,101011,Not Matched,,Not Matched,Match,Not Matched,Match,Not Matched,Not Matched
+0b12d5f595c5787c,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b14047e4f2a2634,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b159ca9b448a855,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b19f5a3f4ab3435,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b1b12ac5e0e1c2b,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b1b3ad8c924c1cb,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b1c749d361fc13f,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+0b213b9b7f432c35,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,Match,,Match,Match,Match,Match,Match,Match
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Total Records,1275,,1275,1275,1275,1275,1275,1275
+,,,,,,,,,,,,,,,Matched,1144,,1162,1264,1207,1268,1206,1261
+,,,,,,,,,,,,,,,Not Matched,131,,113,11,68,7,69,14
+,,,,,,,,,,,,,,,Acuracy,89.7254902,,91.1372549,99.1372549,94.66666667,99.45098039,94.58823529,98.90196078

@@ -1,0 +1,10 @@
+To execute code : 
+Required syntax : toxicCommentClassification.py <data_file> <classifier type>
+
+data_file :
+for randomforest
+ https://github.com/s-basant/bigData/ToxicClassification/data/RandomForest/dataset.csv
+for Logistic regression
+ https://github.com/s-basant/bigData/ToxicClassification/data/LogisticRegression/dataset.csv
+
+<classifier type> : for  Logistic Regression -> LR  and Random forest -> RF
